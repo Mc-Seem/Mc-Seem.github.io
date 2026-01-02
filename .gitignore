@@ -1,0 +1,43 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+.directory
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jekyll (if used later)
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Node modules (if npm is used)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build artifacts
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
